@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Subramanian and I'm studying Computer Science Engineering in second year at University College of Engineering, Nagercoil in Tamilnadu.<br><br> 
+I'm Subramanian and I'm studying Computer Science Engineering at University College of Engineering, Nagercoil in Tamilnadu.<br><br> 
 
 
 ## 🌐 Socials:
