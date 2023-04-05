@@ -1,5 +1,5 @@
-# <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="219px"/> About Me:
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="512px"/>
+# <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="75px"/> About Me:
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="512px"/>
 <hr>
 I'm Subramanian and I'm studying Computer Science Engineering at University College of Engineering, Nagercoil in Tamilnadu.<br><br> 
 
