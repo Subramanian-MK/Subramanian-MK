@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="219px"/> About Me:
+# <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100px"/> About Me:
 <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="512px"/>
 <hr>
 I'm Subramanian and I'm studying Computer Science Engineering at University College of Engineering, Nagercoil in Tamilnadu.<br><br> 
